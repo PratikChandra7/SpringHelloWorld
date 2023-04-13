@@ -8,7 +8,7 @@ public class HelloService {
         
 	    @RequestMapping("/")
 		public String index() {
-			return ("Hello World");
+			return ("Hello World with Second Commit");
 			
 		}
 }
